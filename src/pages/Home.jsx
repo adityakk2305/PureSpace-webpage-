@@ -1,7 +1,6 @@
 import React from "react";
 import HeroSection from "../components/HeroSection";
 import EstimateForm from "../components/EstimateForm";
-import TestimonialSection from "../components/testimonials ";
 import ServicesSection from "../components/Services";
 import FeaturedIn from "../components/FeaturedIn";
 import BeforeAfter from "../components/carousel-before-after";
@@ -11,6 +10,7 @@ import WhyChooseSection from "../components/WhyChooseSection";
 import StorageSection from "../components/Baner-2";
 import AboutSection from "./About";
 import TeamSection from "./TeamSection";
+import TestimonialSection from "../components/Testimonials";
 
 const Home = () => {
   return (
