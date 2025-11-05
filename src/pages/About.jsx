@@ -1,5 +1,5 @@
 import React from "react";
-import aboutImg from "../assets/Images/about-pageimg.jpg"; // 🖼️ your image path
+import aboutImg from "../assets/Images/About-pageimg.jpg"; // 🖼️ your image path
 import TeamSection from "./TeamSection";
 import FAQSection from "./FAQSection";
 import WorkWithUs from "./WorkWithUs";
