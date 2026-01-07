@@ -1,27 +1,30 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
+import DeepclenImg from "../assets/Images/Deepclen-img.jpg";
+import SofaDeepclenImg from "../assets/Images/SofaDeepclen-img.jpg";
+import KichenDeepclenImg from "../assets/Images/KichenDeepclen-img.jpg";
 
 const services = [
   {
     id: 1,
     title: "Deep Cleaning",
     description: "Thorough cleaning in every nook and cranny of your home.",
-    price: "₹100",
-    image: "/images/deep-cleaning.jpg",
+    price: "₹4000",
+    image: DeepclenImg
   },
   {
     id: 2,
     title: "Furniture Cleaning",
     description: "Ensuring your furniture is refreshed, sanitized, and looks as good as new.",
     price: "₹150",
-    image: "/images/furniture-cleaning.jpg",
+    image: SofaDeepclenImg
   },
   {
     id: 3,
     title: "Kitchen Cleaning",
     description: "Leaving your kitchen spotless and hygienic.",
     price: "₹200",
-    image: "/images/kitchen-cleaning.jpg",
+    image: KichenDeepclenImg
   },
 ];
 
