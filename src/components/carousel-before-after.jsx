@@ -81,10 +81,10 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 // ✅ Import images
-import sofaBefore from "../assets/Images/sofa-before.jpg";
-import sofaAfter from "../assets/Images/sofa-after.jpg";
+import sofaBefore from "../assets/Images/Sofa-before.jpg";
+import sofaAfter from "../assets/Images/Sofa-after.jpg";
 import windowBefore from "../assets/Images/window-before.jpg";
-import windowAfter from "../assets/Images/window-after.jpg";
+import windowAfter from "../assets/Images/Window-after.jpg";
 import carpetBefore from "../assets/Images/carpait-before.jpg";
 import carpetAfter from "../assets/Images/Carpait-after.jpg";
 

@@ -1,5 +1,5 @@
 import React from "react";
-import kitchenImg from "../assets/Images/kitchenImg.jpg"; // ✅ replace with your image
+import kitchenImg from "../assets/Images/kitchenimg.jpg"; // ✅ replace with your image
 
 const HeroSection = () => {
   return (

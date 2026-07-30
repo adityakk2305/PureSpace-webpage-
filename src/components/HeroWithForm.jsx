@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import kitchenImg from "../assets/Images/kitchenImg.jpg"; // 🔥 Background Image
+import kitchenImg from "../assets/Images/kitchenimg.jpg"; // 🔥 Background Image
 
 const HeroWithForm = () => {
   const [formData, setFormData] = useState({
