@@ -1,7 +1,7 @@
 import React from "react";
-import moveImg from "../assets/Images/ironman.jpg";
-import deepCleanImg from "../assets/Images/ironman.jpg";
-import laundryImg from "../assets/Images/ironman.jpg";
+import moveImg from "../assets/Images/Banerimg.jpg";
+import deepCleanImg from "../assets/Images/Deepclen-img.jpg";
+import laundryImg from "../assets/Images/SofaDeepclen-img.jpg";
 import { useNavigate } from "react-router-dom";
 
 const ServicesSection = () => {
